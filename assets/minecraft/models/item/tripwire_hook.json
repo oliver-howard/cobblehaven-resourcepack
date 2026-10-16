@@ -6,15 +6,9 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 1004
+        "custom_model_data": 1001
       },
-      "model": "crates:key/black_purple"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1003
-      },
-      "model": "crates:key/gold"
+      "model": "crates:key/aqua"
     },
     {
       "predicate": {
@@ -24,9 +18,15 @@
     },
     {
       "predicate": {
-        "custom_model_data": 1001
+        "custom_model_data": 1003
       },
-      "model": "crates:key/aqua"
+      "model": "crates:key/gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "crates:key/black_purple"
     }
   ]
 }
