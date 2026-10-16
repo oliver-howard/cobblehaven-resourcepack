@@ -1,0 +1,31 @@
+{
+  "spawn_notification.notification.spawned": "The %1$s%2$s spawned%3$s!",
+  "spawn_notification.notification.fished": "The %1$s%2$s was fished up%3$s!",
+  "spawn_notification.notification.snacked": "The %1$s%2$s found a snack%3$s!",
+  "spawn_notification.notification.captured": "The %1$s%2$s was captured%3$s!",
+  "spawn_notification.notification.fainted": "The %1$s%2$s was knocked out%3$s!",
+  "spawn_notification.notification.died": "The %1$s%2$s was slain%3$s!",
+  "spawn_notification.notification.despawned": "The %1$s%2$s despawned%3$s!",
+  "spawn_notification.notification.resurrected": "The %1$s%2$s was resurrected%3$s!",
+  "spawn_notification.notification.hatched": "The %1$s%2$s was hatched%3$s!",
+
+  "spawn_notification.labels.legendary": "§dLegendary§r",
+  "spawn_notification.labels.mythical": "§bMythical§r",
+  "spawn_notification.labels.ultra_beast": "§cUltra Beast§r",
+  "spawn_notification.labels.paradox": "§aParadox§r",
+  "spawn_notification.alpha": "§eAlpha§r",
+  "spawn_notification.shiny": "§6Shiny§r",
+  "spawn_notification.max_ivs": "§9Max IV§r",
+
+  "spawn_notification.segments.biome": "in a %1$s biome",
+  "spawn_notification.segments.coordinates": "at %1$s",
+  "spawn_notification.segments.dimension": "in %1$s",
+  "spawn_notification.segments.player": "by %1$s",
+
+  "spawn_notification.parts.coords": "%1$s, %2$s, %3$s",
+  "spawn_notification.parts.player.unknown": "someone",
+
+  "dimension.minecraft.overworld": "the Overworld",
+  "dimension.minecraft.the_nether": "the Nether",
+  "dimension.minecraft.the_end": "The End"
+}

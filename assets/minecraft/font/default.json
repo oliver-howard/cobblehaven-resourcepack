@@ -1,0 +1,121 @@
+{
+  "providers": [
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:acerank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:adminrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:championrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:legendrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:managerrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:masterrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:modrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:sradminrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:eventsrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:ownerrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:partnerrank.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:rankhelper.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        ""
+      ],
+      "file": "cobblemon:trainerrank.png",
+      "height": 8,
+      "type": "bitmap"
+    }
+  ]
+}
