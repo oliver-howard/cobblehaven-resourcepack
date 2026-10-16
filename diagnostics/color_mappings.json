@@ -1,0 +1,114 @@
+[
+  {
+    "color": "aqua",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1001,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2001
+  },
+  {
+    "color": "magenta",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1002,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2002
+  },
+  {
+    "color": "gold",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1003,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2003
+  },
+  {
+    "color": "black_purple",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1004,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2004
+  },
+  {
+    "color": "black",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1005,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2005
+  },
+  {
+    "color": "bronze",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1006,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2006
+  },
+  {
+    "color": "dark",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1007,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2007
+  },
+  {
+    "color": "dark_red",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1008,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2008
+  },
+  {
+    "color": "green",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1009,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2009
+  },
+  {
+    "color": "light_pink",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1010,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2010
+  },
+  {
+    "color": "navy_blue",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1011,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2011
+  },
+  {
+    "color": "orange_green",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1012,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2012
+  },
+  {
+    "color": "pink",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1013,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2013
+  },
+  {
+    "color": "red",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1014,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2014
+  },
+  {
+    "color": "silver",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1015,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2015
+  },
+  {
+    "color": "yellow",
+    "key_item": "minecraft:tripwire_hook",
+    "key_custom_model_data": 1016,
+    "crate_item": "minecraft:carrot_on_a_stick",
+    "crate_custom_model_data": 2016
+  }
+]

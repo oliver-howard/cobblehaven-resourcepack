@@ -27,6 +27,84 @@
         "custom_model_data": 1004
       },
       "model": "crates:key/black_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "crates:key/black"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "crates:key/bronze"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "crates:key/dark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "crates:key/dark_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "crates:key/green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "crates:key/light_pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "crates:key/navy_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "crates:key/orange_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "crates:key/pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "crates:key/red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "crates:key/silver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "crates:key/yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "cobblehaven:item/tripwire_hook_vanilla"
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2101
+      },
+      "model": "crates:crate/aqua/bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2102
+      },
+      "model": "crates:crate/aqua/center"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2103
+      },
+      "model": "crates:crate/aqua/down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2104
+      },
+      "model": "crates:crate/aqua/key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2105
+      },
+      "model": "crates:crate/aqua/lock_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2106
+      },
+      "model": "crates:crate/aqua/lock_left_sub"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2107
+      },
+      "model": "crates:crate/aqua/lock_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2108
+      },
+      "model": "crates:crate/aqua/lock_right_sub"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2109
+      },
+      "model": "crates:crate/aqua/pokeball_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2110
+      },
+      "model": "crates:crate/aqua/up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2111
+      },
+      "model": "crates:crate/aqua/up2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2112
+      },
+      "model": "cobblehaven:item/paper_vanilla"
+    }
+  ]
+}

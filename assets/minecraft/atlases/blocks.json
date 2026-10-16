@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "source": "crate",
+      "prefix": "crate/"
+    },
+    {
+      "type": "minecraft:directory",
+      "source": "key",
+      "prefix": "key/"
+    }
+  ]
+}

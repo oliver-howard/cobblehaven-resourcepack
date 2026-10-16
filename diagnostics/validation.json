@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "counts": {
+    "models": 214,
+    "elements": 1472,
+    "faces": 7984,
+    "custom_textures": 32
+  },
+  "failures": [],
+  "limitations": [
+    "No Minecraft client rendering performed",
+    "Static assembly offsets are a reconstruction",
+    "Vanilla minecraft: dependencies are assumed to come from Minecraft 1.21.1",
+    "Other packs/mods may override models or atlas sources at runtime"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2001
+      },
+      "model": "crates:item/static_aqua"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2002
+      },
+      "model": "crates:item/static_magenta"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2003
+      },
+      "model": "crates:item/static_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2004
+      },
+      "model": "crates:item/static_black_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2005
+      },
+      "model": "crates:item/static_black"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2006
+      },
+      "model": "crates:item/static_bronze"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2007
+      },
+      "model": "crates:item/static_dark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2008
+      },
+      "model": "crates:item/static_dark_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2009
+      },
+      "model": "crates:item/static_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2010
+      },
+      "model": "crates:item/static_light_pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2011
+      },
+      "model": "crates:item/static_navy_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2012
+      },
+      "model": "crates:item/static_orange_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013
+      },
+      "model": "crates:item/static_pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2014
+      },
+      "model": "crates:item/static_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2015
+      },
+      "model": "crates:item/static_silver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2016
+      },
+      "model": "crates:item/static_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2017
+      },
+      "model": "cobblehaven:item/carrot_on_a_stick_vanilla"
+    }
+  ]
+}

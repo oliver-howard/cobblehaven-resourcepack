@@ -1,0 +1,53 @@
+{
+  "status": "static reconstruction; original rig transforms unavailable",
+  "offsets_model_units": {
+    "bottom": [
+      0,
+      -8,
+      0
+    ],
+    "up2": [
+      0,
+      2,
+      7.5
+    ],
+    "up": [
+      0,
+      -1,
+      -9
+    ],
+    "center": [
+      0,
+      -1,
+      -9
+    ],
+    "down": [
+      0,
+      -1,
+      -9
+    ]
+  },
+  "omitted": [
+    "key",
+    "lock_left",
+    "lock_left_sub",
+    "lock_right",
+    "lock_right_sub",
+    "pokeball_1"
+  ],
+  "reason": "Key/interior and articulated parts are not required for the closed shell; original rig placement cannot be recovered from these JSONs alone. Front badge placement is reconstructed.",
+  "display_origin": "At bottom-center of block, use entity y=blockY+0.5: item rendering subtracts [8,8,8]/16.",
+  "ids": {
+    "2101": "bottom",
+    "2102": "center",
+    "2103": "down",
+    "2104": "key",
+    "2105": "lock_left",
+    "2106": "lock_left_sub",
+    "2107": "lock_right",
+    "2108": "lock_right_sub",
+    "2109": "pokeball_1",
+    "2110": "up",
+    "2111": "up2"
+  }
+}
