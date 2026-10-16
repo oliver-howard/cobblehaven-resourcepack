@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/tripwire_hook"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "crates:key/aqua"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "crates:key/magenta"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "crates:key/gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "crates:key/black_purple"
+    }
+  ]
+}
